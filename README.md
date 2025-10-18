@@ -25,7 +25,7 @@ I'm a passionate **.NET Developer** with 3+ years of experience building scalabl
 
 * **IDE:** Visual Studio, Visual Studio Code
 * **Version Control:** Git, GitHub
-* **Other:** Postman, <Any other tool you use frequently, e.g., Rider>
+* **Other:** Postman, swagger
 
 
 
