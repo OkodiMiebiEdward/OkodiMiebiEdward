@@ -9,7 +9,7 @@ I'm a passionate **.NET Developer** with 3+ years of experience building scalabl
 ### 🚀 What I'm Currently Working On
 
 * Developing RESTful APIs with **ASP.NET Core** and **Entity Framework Core**.
-* Exploring e.g., Blazor, Azure Functions, Microservices architecture>**.
+* Exploring e.g., Blazor, Azure Functions, Microservices architecture.
 
 ### ✨ My Core Skill Set
 
